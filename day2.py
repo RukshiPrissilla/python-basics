@@ -1,8 +1,8 @@
 
 print("hello")
 
-#VARIABLES
-name="rukshi"#string
+#VARIABLESgit
+name="ruksla"#string
 age=56#integer
 height=6.7#float
 is_student=True#boolean
