@@ -1,17 +1,17 @@
 
 print("hello")
 
-#VARIABLESgit
-name="ruksla"#string
+#VARIABLES
+name="rukshi"#string
 age=56#integer
 height=6.7#float
 is_student=True#boolean
 
-print("my name is",name )
+print("my name is ",name)
 print("my age is",age)
 print("my age is" + str(age))#here age is string so it can add but in output no space
 
-#IDENTIFY THE TYPE OF VARIABLES
+#IDENTIFY THE TYPE OF VARIABLE
 print(type(name))
 print(type(age))
 print(type(height))
