@@ -1,0 +1,13 @@
+#using def,while true
+
+def Square(a):
+    return a**2
+def Cube(a):
+    return a**3
+while True:  #infinite loop
+    a=int(input("Number:"))
+    print(f"Square :{Square(a)}")
+    print(f"Cube :{Cube(a)}")
+
+
+    
