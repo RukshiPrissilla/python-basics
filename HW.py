@@ -2,5 +2,5 @@
 mass=float(input("enter mass:"))
 velocity=float(input("enter velocity:"))
 kineticenergy=0.5*mass*velocity**2
-print(f"kinetic energy is {kineticenergy}")
+print(f"kinetic energy is= {kineticenergy}")
 
